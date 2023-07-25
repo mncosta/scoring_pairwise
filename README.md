@@ -12,7 +12,6 @@ Code
 | [data](data/)                                                        | Data used in this repository                                          |
 | [images](images/)                                                    | Mapillary images used                                                 |
 | [output](output/)                                                    | Outputs of ranking algorithms                                         |
-| [0.data](0.data.ipynb)                                               | Data exploration                                                      |
 | [01.elo](01.elo.ipynb)                                               | Algorithm: Elo                                                        |
 | [02.trueskill](02.trueskill.ipynb)                                   | Algorithm: TrueSkill                                                  |
 | [03.convex_optimization](03.convex_optimization.ipynb)               | Algorithm: Convex Optimization Problem                                |
