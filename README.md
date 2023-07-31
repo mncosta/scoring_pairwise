@@ -27,13 +27,11 @@ If you use these materials, please cite as:
 
 
 ```
-@misc{costa2023scoring,
-      title={Scoring Cycling Environments Perceived Safety using Pairwise Image Comparisons}, 
-      author={Miguel Costa and Manuel Marques and Felix Wilhelm Siebert and Carlos Lima Azevedo and Filipe Moura},
-      year={2023},
-      eprint={2307.13397},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{costa2023scoring,
+  title={Scoring Cycling Environments Perceived Safety using Pairwise Image Comparisons},
+  author={Costa, Miguel and Marques, Manuel and Siebert, Felix Wilhelm and Azevedo, Carlos Lima and Moura, Filipe},
+  journal={arXiv preprint arXiv:2307.13397},
+  year={2023}
 }
 ```
 
